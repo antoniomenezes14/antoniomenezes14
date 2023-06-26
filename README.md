@@ -1,6 +1,7 @@
-### Olá, devs! 👋
+<h1 align="left"> Olá, devs! 👋</h1>
 
-- Me chamo Antônio Menezes, sou um desenvolvedor Front-End.
+Me chamo Antônio Menezes, sou um desenvolvedor Front-End.
+- 📝 Acesse aqui o meu <a href="#" target="_blank">Currículo Web</a>.<hr>
 
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Eniac.
