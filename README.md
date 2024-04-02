@@ -1,12 +1,11 @@
 <h1 align="left"> Olá, devs! 👋</h1>
 
-Me chamo Antônio Menezes, sou um desenvolvedor Front-End.
-- 📝 Acesse aqui o meu <a href="#" target="_blank">Currículo Web</a>.<hr>
+Me chamo Antônio Menezes, sou um desenvolvedor Web.
 
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho como Dev. Front-End.
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Eniac.
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Unicsul.
 - 🌱 No momento, estou estudando JavaScript, TypeScript & ReactJs.
-- ⚡ Tenho 19 anos e moro no Estado de São Paulo.
+- ⚡ Tenho 20 anos e moro no Estado de São Paulo.
 
 <div align="center">
   <img align="center" alt="icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
